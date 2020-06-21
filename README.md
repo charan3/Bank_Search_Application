@@ -10,3 +10,4 @@ A single page web app built using ReactJS. The app should list and search for ba
 
 The backend API to get a list of banks of Mumbai: https://vast-shore-74260.herokuapp.com/banks?city=MUMBAI 
 
+Application hosted URL: https://csb-6n4tu-gkta7itfe.vercel.app/
